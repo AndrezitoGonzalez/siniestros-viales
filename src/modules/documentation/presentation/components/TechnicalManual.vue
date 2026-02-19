@@ -10,10 +10,10 @@ const sections: DocSection[] = [
     title: 'Arquitectura del Proyecto',
     icon: 'mdi-sitemap',
     content: `El Sistema de Gestion de Siniestros Viales implementa una arquitectura Feature-Based combinada con principios de Clean Architecture.
-    Cada modulo (siniestros, dashboard, documentacion) es una unidad independiente con sus propias capas:
+    Cada modulo (siniestros, documentacion) es una unidad independiente con sus propias capas:
     domain, application, infrastructure y presentation. Esto permite un alto grado de desacoplamiento,
     donde cada modulo puede evolucionar de forma independiente sin afectar a los demas.
-    El proyecto fue desarrollado por <strong>OpiTech</strong> como parte de su Fabrica de Software.`,
+    El proyecto fue desarrollado por <strong>Andres Garcia</strong> como parte de una prueba Tecnica para <strong>OpiTech</strong> .`,
   },
   {
     title: 'Capas de la Arquitectura',
