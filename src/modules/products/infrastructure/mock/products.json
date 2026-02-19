@@ -1,0 +1,222 @@
+[
+  {
+    "id": "sin-001",
+    "name": "Colision Av. Boyaca con Calle 72",
+    "description": "Colision entre vehiculo particular y taxi en interseccion semaforizada. Semaforo en ambar al momento del impacto. Dos heridos leves trasladados al hospital.",
+    "price": 150000,
+    "category": "Colision Vehicular",
+    "image": "https://www.shutterstock.com/image-vector/collision-two-cars-on-road-260nw-2457980779.jpg",
+    "stock": 3,
+    "createdAt": "2026-02-15T08:30:00Z"
+  },
+  {
+    "id": "sin-002",
+    "name": "Atropello Peatonal Zona Escolar",
+    "description": "Peaton atropellado en cruce escolar por motocicleta que no respeto senal de pare. Victima con fractura en extremidad inferior. Conductor identificado.",
+    "price": 250000,
+    "category": "Atropello",
+    "image": "https://www.shutterstock.com/image-vector/dangerous-illegal-driving-car-moves-600nw-2281651187.jpg",
+    "stock": 1,
+    "createdAt": "2026-02-14T07:45:00Z"
+  },
+  {
+    "id": "sin-003",
+    "name": "Volcamiento Camion via Bogota Medellin km 5",
+    "description": "Camion de carga pesada volco en curva pronunciada por exceso de velocidad. Derrame de aceite en la via. Sin heridos graves.",
+    "price": 450000,
+    "category": "Volcamiento",
+    "image": "https://www.shutterstock.com/image-vector/accident-container-truck-crashes-on-260nw-1810018261.jpg",
+    "stock": 2,
+    "createdAt": "2026-02-13T14:20:00Z"
+  },
+  {
+    "id": "sin-004",
+    "name": "Caida de Motociclista Cra 15",
+    "description": "Motociclista perdio control al evadir hueco en la via. Lesiones en extremidades superiores. Vehiculo con danos moderados.",
+    "price": 800000,
+    "category": "Caida de Motocicleta",
+    "image": "https://media.istockphoto.com/id/622905982/es/vector/ni%C3%B1o-jinete.jpg?s=612x612&w=0&k=20&c=EJJdYN6Tm4wvpvYQjLFfNdhIX099SIP1Gl2Lfv5yyFA=",
+    "stock": 1,
+    "createdAt": "2026-02-12T16:10:00Z"
+  },
+  {
+    "id": "sin-005",
+    "name": "Choque Frontal Autopista Sur",
+    "description": "Choque frontal entre dos vehiculos en carril contrario. Un conductor ebrio invadio el carril. Cuatro heridos, dos graves.",
+    "price": 600000,
+    "category": "Choque Frontal",
+    "image": "https://thumbs.dreamstime.com/z/accidente-en-el-de-carretera-chocaron-dos-autos-estilo-minimalista-plano-caricatura-estampador-dibujos-animados-175935781.jpg",
+    "stock": 3,
+    "createdAt": "2026-02-11T22:30:00Z"
+  },
+  {
+    "id": "sin-006",
+    "name": "Choque Lateral Glorieta del Norte Manizalez",
+    "description": "Vehiculo no cedio el paso en rotonda y colisiono lateralmente con bus de transporte publico. Quince pasajeros con lesiones leves.",
+    "price": 350000,
+    "category": "Choque Lateral",
+    "image": "https://st4.depositphotos.com/36694586/41827/v/1600/depositphotos_418274484-stock-illustration-car-crash-vector-isometric-illustration.jpg",
+    "stock": 4,
+    "createdAt": "2026-02-10T11:00:00Z"
+  },
+  {
+    "id": "sin-007",
+    "name": "Fuga aceite camion tras Colision Calle 100 Bogota",
+    "description": "Vehiculo sedan oscuro impacto motociclista y huyo del lugar. Testigos aportaron placa parcial. Victima hospitalizada.",
+    "price": 200000,
+    "category": "Fuga de Vehiculo",
+    "image": "https://static.vecteezy.com/system/resources/previews/026/554/964/non_2x/accident-with-a-cartoon-of-container-truck-falling-off-the-road-passed-away-and-landed-in-the-middle-of-the-road-two-parallel-roads-vector.jpg",
+    "stock": 2,
+    "createdAt": "2026-02-09T19:45:00Z"
+  },
+  {
+    "id": "sin-008",
+    "name": "Accidente Multiple Peaje Norte Tocancipa",
+    "description": "Choque en cadena de 2 vehiculos por frenado subito en zona de peaje. Niebla densa como factor contribuyente. Ocho heridos leves.",
+    "price": 750000,
+    "category": "Accidente Multiple",
+    "image": "https://png.pngtree.com/png-clipart/20220602/original/pngtree-accidence-road-paramedic-first-aid-help-to-people-police-and-medical-png-image_7885040.png",
+    "stock": 1,
+    "createdAt": "2026-02-08T06:15:00Z"
+  },
+  {
+    "id": "sin-009",
+    "name": "Colision en Puente Vehicular",
+    "description": "Dos vehiculos colisionaron en puente elevado por cambio brusco de carril. Congestion vehicular por 3 horas. Un herido leve.",
+    "price": 120000,
+    "category": "Colision Vehicular",
+    "image": "https://img.freepik.com/vector-premium/accidente-automovilistico-golpeo-barandilla-puente-cayo-rio_353206-517.jpg",
+    "stock": 6,
+    "createdAt": "2026-02-07T09:30:00Z"
+  },
+  {
+    "id": "sin-010",
+    "name": "Atropello Ciclista Ciclorruta",
+    "description": "Ciclista atropellado por vehiculo que giro sin precaucion en interseccion con ciclorruta. Ciclista con trauma craneal moderado.",
+    "price": 300000,
+    "category": "Atropello",
+    "image": "https://www.shutterstock.com/image-vector/accident-bicycle-crossing-car-hit-260nw-1926072530.jpg",
+    "stock": 2,
+    "createdAt": "2026-02-06T17:20:00Z"
+  },
+  {
+    "id": "sin-011",
+    "name": "Volcamiento camioneta",
+    "description": "Camioneta salio de la via en carretera destapada y volco. Conductor con heridas leves. Vehiculo con perdida total.",
+    "price": 400000,
+    "category": "Volcamiento",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVCoW6dtF25w_0HcyAmV0ZOo2VfH4wdlfbcw&s",
+    "stock": 3,
+    "createdAt": "2026-02-05T13:00:00Z"
+  },
+  {
+    "id": "sin-012",
+    "name": "Caida Moto por Aceite en Via la calera",
+    "description": "Motociclista derrapa por mancha de aceite en la calzada. Lesiones en rodilla y codo. Reportado derrame previo no senalizado.",
+    "price": 600000,
+    "category": "Caida de Motocicleta",
+    "image": "https://st.depositphotos.com/5524162/54238/v/1600/depositphotos_542381680-stock-illustration-motorcycle-accident-vector-illustration-biker.jpg",
+    "stock": 1,
+    "createdAt": "2026-02-04T08:50:00Z"
+  },
+  {
+    "id": "sin-013",
+    "name": "Choque Frontal Carretera Central",
+    "description": "Adelantamiento indebido en curva genero choque frontal entre camion y automovil. Un fallecido, dos heridos criticos.",
+    "price": 900000,
+    "category": "Choque Frontal",
+    "image": "https://www.shutterstock.com/image-vector/car-crash-urgent-phone-call-600nw-2248382907.jpg",
+    "stock": 3,
+    "createdAt": "2026-02-03T20:15:00Z"
+  },
+  {
+    "id": "sin-014",
+    "name": "Choque Lateral Cruce Semaforo",
+    "description": "Vehiculo paso semaforo en rojo e impacto lateralmente a otro que tenia via. Airbags se activaron en ambos vehiculos. Tres heridos.",
+    "price": 280000,
+    "category": "Choque Lateral",
+    "image": "https://www.shutterstock.com/image-vector/safety-driving-car-traffic-road-260nw-2109521012.jpg",
+    "stock": 3,
+    "createdAt": "2026-02-02T15:40:00Z"
+  },
+  {
+    "id": "sin-015",
+    "name": "Fuga de Vehiculo Zona Comercial",
+    "description": "Conductor de vehiculo impacto puesto de ventas ambulantes y escapo. Dos personas lesionadas. Camaras de seguridad captaron el hecho.",
+    "price": 180000,
+    "category": "Fuga de Vehiculo",
+    "image": "https://media.istockphoto.com/id/1447876149/es/vector/ilustraci%C3%B3n-isom%C3%A9trica-de-un-accidente-de-un-autom%C3%B3vil-conducido-por-un-hombre-y-un.jpg?s=612x612&w=0&k=20&c=eFccZNY8XGZjwoNWiKpHgJqjobTSNt6fXbSWoPekNHQ=",
+    "stock": 1,
+    "createdAt": "2026-02-01T12:30:00Z"
+  },
+  {
+    "id": "sin-016",
+    "name": "Accidente Multiple Via Rapida",
+    "description": "Lluvia intensa provoco colision en cadena de 8 vehiculos en via rapida. Cierres parciales de la via por 5 horas. Doce heridos leves.",
+    "price": 950000,
+    "category": "Accidente Multiple",
+    "image": "https://www.shutterstock.com/image-vector/multivehicle-car-accident-on-icy-260nw-1855650250.jpg",
+    "stock": 4,
+    "createdAt": "2026-01-30T07:00:00Z"
+  },
+  {
+    "id": "sin-017",
+    "name": "Colision Bus Articulado Transmilenio",
+    "description": "Bus articulado colisiono con vehiculo particular en estacion. Conductor del vehiculo no respeto senal de carril exclusivo.",
+    "price": 220000,
+    "category": "Colision Vehicular",
+    "image": "https://pbs.twimg.com/ext_tw_video_thumb/837086222145159169/pu/img/aQDCY79ZsddAiE10.jpg",
+    "stock": 4,
+    "createdAt": "2026-01-28T10:20:00Z"
+  },
+  {
+    "id": "sin-018",
+    "name": "Atropello Adulto Mayor Cra 7",
+    "description": "Adulto mayor de 78 anos atropellado al cruzar avenida principal. Semaforo peatonal insuficiente. Victima con fracturas multiples.",
+    "price": 350000,
+    "category": "Atropello",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDRs6OOTVhjKMYsVUPt9dEl4aUI6gUwgubAA&s",
+    "stock": 1,
+    "createdAt": "2026-01-25T18:10:00Z"
+  },
+  {
+    "id": "sin-019",
+    "name": "Volcamiento Tractomula Peaje",
+    "description": "Tractomula con doble remolque volco al intentar evadir cola en peaje. Carga de alimentos dispersa en la via. Sin heridos.",
+    "price": 550000,
+    "category": "Volcamiento",
+    "image": "https://www.shutterstock.com/image-vector/illustration-yellow-dump-truck-crashed-600nw-2672056097.jpg",
+    "stock": 2,
+    "createdAt": "2026-01-22T04:30:00Z"
+  },
+  {
+    "id": "sin-020",
+    "name": "Caida Motociclista Interseccion",
+    "description": "Motociclista freno de emergencia en interseccion mojada y derrapa. Heridas superficiales. Transito regulado por agentes.",
+    "price": 500000,
+    "category": "Caida de Motocicleta",
+    "image": "https://www.shutterstock.com/image-vector/driver-carelessly-opened-door-causing-260nw-2441091171.jpg",
+    "stock": 2,
+    "createdAt": "2026-01-20T07:45:00Z"
+  },
+  {
+    "id": "sin-021",
+    "name": "Choque Lateral Avenida Principal",
+    "description": "Vehiculo salio de parqueadero sin precaucion e impacto taxi en carril derecho. Pasajera del taxi con latigazo cervical.",
+    "price": 160000,
+    "category": "Choque Lateral",
+    "image": "https://static.vecteezy.com/system/resources/previews/004/599/952/non_2x/car-crash-accident-side-impact-illustration-concept-in-cartoon-vector.jpg",
+    "stock": 3,
+    "createdAt": "2026-01-18T14:50:00Z"
+  },
+  {
+    "id": "sin-022",
+    "name": "Choque Nocturna Barrio Residencial",
+    "description": "Vehiculo a alta velocidad impacto dos vehiculos estacionados y huyo. Vecinos captaron video con celular. Sin personas lesionadas.",
+    "price": 100000,
+    "category": "Fuga de Vehiculo",
+    "image": "https://img.freepik.com/vector-gratis/accidente-automovilistico-nocturno-carretera-tunel-montana-ilustracion-dibujos-animados-vectoriales-dos-autos-colision-carretera-fuego-humo-sobre-capos-danados-accidente-trafico-violacion-reglas-trafico-conduccion-estado-ebriedad_107791-23207.jpg",
+    "stock": 3,
+    "createdAt": "2026-01-15T02:20:00Z"
+  }
+]
